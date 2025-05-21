@@ -1,9 +1,7 @@
 ## The Storyteller 👨‍💻📈
-Turning Data into Decisions 🎯
-Hey there! 👋 I'm a Data Analyst driven by curiosity and caffeine, on a mission to leverage data to understand the "why" behind the "what". Whether it's wrangling spreadsheets or visualizing trends in dashboards, I love turning raw numbers into powerful and meaningful stories. 📖
+Turning Data into Decisions 🎯  
+Hey there! 👋 I'm a Data Analyst driven by curiosity and caffeine, on a mission to leverage data to understand the "why" behind the "what". Whether it's wrangling spreadsheets or visualizing trends in dashboards, I love turning raw numbers into powerful and meaningful stories. 📖  
 Data talks—I just help it speak louder. 📊🔊
-
-**kmansi3008/kmansi3008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 🧰 Tech Toolkit
 
@@ -12,17 +10,17 @@ Data talks—I just help it speak louder. 📊🔊
 
 # 💼 Professional Journey 
 
-🎮 Data Analyst @ Easley-Dunn Productions Ltd. 
-    - Building and optimizing ETL pipelines in BigQuery, leading a team of seven to implement KPI tracking systems to support game analytics, increasing retention, and in-app purchases. 
-    - Designing and maintaining interactive dashboards to track metrics and collaborating across Production, Economy, and MarTech teams to evaluate gameplay features and monetization strategies, driving key UX improvements via A/B testing. 
+🎮 Data Analyst @ Easley-Dunn Productions Ltd.  
+    - Building and optimizing ETL pipelines in BigQuery, leading a team of seven to implement KPI tracking systems to support game analytics, increasing retention, and in-app purchases.   
+    - Designing and maintaining interactive dashboards to track metrics and collaborating across Production, Economy, and MarTech teams to evaluate gameplay features and monetization strategies, driving key UX improvements via A/B testing.   
     
-📑 Data Science and Analytics Intern @ Forage
-    - Performed EDA and predictive modeling in Python and R, built dashboards in Tableau to forecast churn and uncover customer behavior patterns.
-    - Analyzed customer segments and transaction data to optimize targeting, improve campaign effectiveness, and streamline marketing strategies. 
+📑 Data Science and Analytics Intern @ Forage  
+    - Performed EDA and predictive modeling in Python and R, built dashboards in Tableau to forecast churn and uncover customer behavior patterns.  
+    - Analyzed customer segments and transaction data to optimize targeting, improve campaign effectiveness, and streamline marketing strategies.   
 
-🧮 Program Analyst @ EntryLevel
-    - Analyzed user behavior and competitor trends to identify at-risk segments for a leading ed-tech client by developing predictive models and dynamic dashboards (Excel, Tableau), driving strategy across content, product, and marketing. 
-    - Supported retention initiatives by surfacing key engagement drivers and reducing churn.
+🧮 Program Analyst @ EntryLevel  
+    - Analyzed user behavior and competitor trends to identify at-risk segments for a leading ed-tech client by developing predictive models and dynamic dashboards (Excel, Tableau), driving strategy across content, product, and marketing.   
+    - Supported retention initiatives by surfacing key engagement drivers and reducing churn.  
 
 
 # 🚀 Education
