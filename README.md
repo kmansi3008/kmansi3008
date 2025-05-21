@@ -1,14 +1,14 @@
-## The Storyteller 👨‍💻📈
+# The Storyteller 👨‍💻📈
 Turning Data into Decisions 🎯  
 Hey there! 👋 I'm a Data Analyst driven by curiosity and caffeine, on a mission to leverage data to understand the "why" behind the "what". Whether it's wrangling spreadsheets or visualizing trends in dashboards, I love turning raw numbers into powerful and meaningful stories. 📖  
 Data talks—I just help it speak louder. 📊🔊
 
-# 🧰 Tech Toolkit
+### 🧰 Tech Toolkit
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 
 
-# 💼 Professional Journey 
+### 💼 Professional Journey 
 
 🎮 Data Analyst @ Easley-Dunn Productions Ltd.  
     - Building and optimizing ETL pipelines in BigQuery, leading a team of seven to implement KPI tracking systems to support game analytics, increasing retention, and in-app purchases.   
@@ -23,7 +23,7 @@ Data talks—I just help it speak louder. 📊🔊
     - Supported retention initiatives by surfacing key engagement drivers and reducing churn.  
 
 
-# 🚀 Education
+### 🚀 Education
 
 🎓 M.S. in Machine Learning and Data Science @ University of Southern California, Viterbi School of Engineering ( May 2024 )
 
