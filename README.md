@@ -5,12 +5,13 @@ Data talks—I just help it speak louder. 📊🔊
 
 ## 🧰 Tech Toolkit
 <div align="center">
+    
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
 </div>
 
 ## 💼 Professional Journey 
 
-🎮 Data Analyst @ Easley-Dunn Productions Ltd. 
+🎮 Data Analyst @ Easley-Dunn Productions Ltd.
     - Building and optimizing ETL pipelines in BigQuery, leading a team of seven to implement KPI tracking systems to support game analytics, increasing retention, and in-app purchases.
     - Designing and maintaining interactive dashboards to track metrics and collaborating across Production, Economy, and MarTech teams to evaluate gameplay features and monetization strategies, driving key UX improvements via A/B testing.   
     
