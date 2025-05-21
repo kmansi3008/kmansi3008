@@ -11,8 +11,8 @@ Data talks—I just help it speak louder. 📊🔊
 
 ## 💼 Professional Journey 
 
-🎮 Data Analyst @ Easley-Dunn Productions Ltd.
-    - Building and optimizing ETL pipelines in BigQuery, leading a team of seven to implement KPI tracking systems to support game analytics, increasing retention, and in-app purchases.
+🎮 Data Analyst @ Easley-Dunn Productions Ltd.   
+    - Building and optimizing ETL pipelines in BigQuery, leading a team of seven to implement KPI tracking systems to support game analytics, increasing retention, and in-app purchases.   
     - Designing and maintaining interactive dashboards to track metrics and collaborating across Production, Economy, and MarTech teams to evaluate gameplay features and monetization strategies, driving key UX improvements via A/B testing.   
     
 📑 Data Science and Analytics Intern @ Forage  
