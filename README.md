@@ -1,5 +1,5 @@
-# The Storyteller 👨‍💻📈
-Turning Data into Decisions 🎯  
+## Turning Data into Decisions 🎯  
+
 Hey there! 👋 I'm a Data Analyst driven by curiosity and caffeine, on a mission to leverage data to understand the "why" behind the "what". Whether it's wrangling spreadsheets or visualizing trends in dashboards, I love turning raw numbers into powerful and meaningful stories. 📖  
 Data talks—I just help it speak louder. 📊🔊
 
