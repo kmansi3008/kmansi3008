@@ -1,7 +1,6 @@
 ## Turning Data into Decisions 🎯  
 
-Hey there! 👋 I'm a Data Analyst with 1+ years of experience driven by curiosity and on a mission to leverage data to understand the "why" behind the "what". Whether it's wrangling data or visualizing trends in dashboards, I love turning raw numbers into powerful and meaningful stories. 📖  
-Data talks—I just help it speak louder. 📊🔊
+Hey there! I'm a Data Analyst with 1.5+ years of experience driven by curiosity and on a mission to leverage data to understand the "why" behind the "what". Whether it's wrangling data or visualizing trends in dashboards, I love turning raw numbers into powerful and meaningful stories. 
 
 ## 🧰 Tech Toolkit
 <div align="center">
